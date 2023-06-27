@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @MrrTmob
-- 👀 I’m interested in Flutter
-- 🌱 I’m currently learning Flutter
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Tmob
+- 👀 I’m interested in Technology
+- 🌱 I’m currently learning Blockchain
+- 💞️ I’m looking to collaborate on Blockchain project
 - 📫 How to reach me email: mrrtmob@gmail.com
 
 <!---
