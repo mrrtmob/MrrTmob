@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Tmob
 - 👀 I’m interested in Technology
-- 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on Blockchain project
+- 🌱 I’m currently learning Machine Learning
+- 💞️ I’m looking to collaborate on Large Language Model project
 - 📫 How to reach me email: mrrtmob@gmail.com
 
 <!---
